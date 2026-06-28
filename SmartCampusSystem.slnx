@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="SmartCampusSystem.vcxproj" />
+  <Project Path="SmartCampusSystem.vcxproj" Id="cba04644-85d8-40b8-a797-1ffce7c061b4" />
 </Solution>
